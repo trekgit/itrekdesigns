@@ -1396,7 +1396,7 @@ header {
 .homepage-3 .btn.btn-bordered-white::after,
 .homepage-3 .bg-overlay::after,
 .homepage-3 .grad-hover::before {
-    background: linear-gradient(135deg, #10054d 0%, #45108a 100%);
+    background: linear-gradient(-45deg, #ff6347 0%, #ef5361 100%);
 }
 
 .homepage-3 .play-icon {
