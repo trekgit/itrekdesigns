@@ -291,6 +291,11 @@ post-title.h3, .section-heading > h2 {
     line-height: 1em;
     letter-spacing: -1.6px;
 }
+post-title.h3 {
+    text-align: center;
+    padding: 80px;
+    width: 100%;
+}
 
 @media (max-width: 991px) {
     .section-heading > h2 {
