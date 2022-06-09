@@ -130,7 +130,7 @@ p {
     color: #565656;
     margin-bottom: 0;
 }
-post-body p {
+.post-body p {
     text-align:justify;
 }
 
@@ -283,7 +283,7 @@ img {
     color: #222;
 }
 
-post-title.h3, .section-heading > h2 {
+.post-title.h3, .section-heading > h2 {
     display: inline-block;
     font-size: 56px;
     font-weight: 700;
@@ -291,7 +291,7 @@ post-title.h3, .section-heading > h2 {
     line-height: 1em;
     letter-spacing: -1.6px;
 }
-post-title.h3 {
+.post-title.h3 {
     text-align: center;
     padding: 80px;
     width: 100%;
