@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'flaticon';
-  src:  url('../fonts/flaticon.eot?g54qgl');
-  src:  url('../fonts/flaticon.eot?g54qgl#iefix') format('embedded-opentype'),
-    url('../fonts/flaticon.ttf?g54qgl') format('truetype'),
-    url('../fonts/flaticon.woff?g54qgl') format('woff'),
-    url('../fonts/flaticon.svg?g54qgl#flaticon') format('svg');
+  src:  url('https://trekgit.github.io/itrekdesigns/itrkdsgnsCnstrctn01/fonts/flaticon.eot?g54qgl');
+  src:  url('https://trekgit.github.io/itrekdesigns/itrkdsgnsCnstrctn01/fonts/flaticon.eot?g54qgl#iefix') format('embedded-opentype'),
+    url('https://trekgit.github.io/itrekdesigns/itrkdsgnsCnstrctn01/fonts/flaticon.ttf?g54qgl') format('truetype'),
+    url('https://trekgit.github.io/itrekdesigns/itrkdsgnsCnstrctn01/fonts/flaticon.woff?g54qgl') format('woff'),
+    url('https://trekgit.github.io/itrekdesigns/itrkdsgnsCnstrctn01/fonts/flaticon.svg?g54qgl#flaticon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
