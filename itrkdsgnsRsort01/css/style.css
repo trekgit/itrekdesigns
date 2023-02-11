@@ -10185,6 +10185,10 @@ header .d-extra{
     padding: 0;
   }
 
+header.header-mobile .homemargin {
+    margin-top: 45px;
+}
+
   header.header-mobile.header-custom #mainmenu {
     padding: 0 40px 0 40px;
   }
