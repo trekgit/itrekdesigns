@@ -10186,7 +10186,7 @@ header .d-extra{
   }
 
 header.header-mobile .homemargin {
-    margin-top: 45px;
+    margin-top: 45px !important;
 }
 
   header.header-mobile.header-custom #mainmenu {
