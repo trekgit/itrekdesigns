@@ -1240,6 +1240,7 @@ header:not(.header-mobile):not(.force-header-mobile)
   width: 100%;
   background: linear-gradient(0deg, rgba(0,0,0,.8) 0%, rgba(0,0,0,0.5) 100%);
   background: rgba(34, 34, 34, .5);
+  height:100%;
 }
 
 .de_light #content {
