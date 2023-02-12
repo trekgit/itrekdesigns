@@ -10038,6 +10038,7 @@ header .d-extra{
   #subheader,
   .de-navbar-left #subheader {
     padding-bottom: 20px;
+    padding-top: 150px;
   }
 
   #subheader span {
