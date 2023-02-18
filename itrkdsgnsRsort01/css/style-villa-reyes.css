@@ -9828,6 +9828,7 @@ header .de-flex #menu-btn{
 }
 
 header .d-extra{
+  display: none;
   position: absolute;
   top:75px;
   position: absolute;
